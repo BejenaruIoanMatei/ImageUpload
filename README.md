@@ -6,9 +6,9 @@ Aplicatie web in care utilizatorii pot incarca imagini.
 
 - Sectiune in genul blog unde sa apara pozele incarcate
 - Utilizatorii pot:
-  - Sa isi faca un cont
-  - Sa isi modifice singuri contul (imagine, nume, email)
-  - Sa vada ce poze au incarcat ei/ceilalti utilizatori
+  - Sa isi creeze un cont
+  - Sa isi modifice contul (imagine, nume, email)
+  - Sa vada ce poze au incarcat ei sau ceilalti utilizatori
 
 ### Tehnologii folosite
 
